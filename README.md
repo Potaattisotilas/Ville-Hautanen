@@ -9,6 +9,6 @@
   - Javascript <br/>
   
  <ins> Others </ins>
-  - Arduino
+  - Microcontrollers
   - Unity
   - Devops
